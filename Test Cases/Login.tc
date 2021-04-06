@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pengujian Login Web Chanthel</description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6a059b6-189d-4deb-ad8f-44f79b8ec73a</testCaseGuid>
+</TestCaseEntity>

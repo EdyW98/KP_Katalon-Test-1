@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pengujian Create Text File</description>
+   <name>Create txt</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>760c86ef-f6d0-4362-a3e2-4c90ad6fe2cd</testCaseGuid>
+</TestCaseEntity>
