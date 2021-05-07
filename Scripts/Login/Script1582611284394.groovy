@@ -17,9 +17,9 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('https://chanthel.solusi247.com/index.php/login')
 
-WebUI.setText(findTestObject('Object Login/Inp_Username'), '')
+WebUI.setText(findTestObject('Object Login/Inp_Username'), '$uname')
 
-WebUI.setEncryptedText(findTestObject('Object Login/Inp_Password'), '')
+WebUI.setEncryptedText(findTestObject('Object Login/Inp_Password'), '$passwd')
 
 WebUI.click(findTestObject('Object Login/Button_Login'))
 
